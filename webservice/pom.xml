@@ -15,7 +15,7 @@
 	<name>webservice</name>
 	<description>Demo project for Spring Boot for CI CD</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<spring-security.version>5.5.0</spring-security.version>
 	</properties>
 	<dependencies>
