@@ -16,7 +16,7 @@ public class GreetingController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot!";
+		return "Spring Boot App for CI CD/devops job!";
 	}
 	
 	@GetMapping("/greeting")
